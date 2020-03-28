@@ -3,11 +3,11 @@
   <title>博客</title>
   
   <subtitle>脚踏实地</subtitle>
-  <link href="/aencia2020/atom.xml" rel="self"/>
+  <link href="/AutoAVE/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/aencia2020/"/>
+  <link href="https://github.com/AutoAVE/"/>
   <updated>2020-03-28T15:51:40.360Z</updated>
-  <id>https://gitee.com/aencia2020/</id>
+  <id>https://github.com/AutoAVE/</id>
   
   <author>
     <name>张涛</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一次Vlog</title>
-    <link href="https://gitee.com/aencia2020/2020/03/28/first-blog/"/>
-    <id>https://gitee.com/aencia2020/2020/03/28/first-blog/</id>
+    <link href="https://github.com/AutoAVE/2020/03/28/first-blog/"/>
+    <id>https://github.com/AutoAVE/2020/03/28/first-blog/</id>
     <published>2020-03-28T07:09:23.000Z</published>
     <updated>2020-03-28T15:51:40.360Z</updated>
     
@@ -36,21 +36,21 @@
     
     </summary>
     
-      <category term="日常记录" scheme="https://gitee.com/aencia2020/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+      <category term="日常记录" scheme="https://github.com/AutoAVE/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
     
     
-      <category term="leetcode" scheme="https://gitee.com/aencia2020/tags/leetcode/"/>
+      <category term="leetcode" scheme="https://github.com/AutoAVE/tags/leetcode/"/>
     
-      <category term="算法" scheme="https://gitee.com/aencia2020/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://github.com/AutoAVE/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="随便说说" scheme="https://gitee.com/aencia2020/tags/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
+      <category term="随便说说" scheme="https://github.com/AutoAVE/tags/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
     
   </entry>
   
   <entry>
     <title>十大经典</title>
-    <link href="https://gitee.com/aencia2020/2020/02/16/sort-algorithms/"/>
-    <id>https://gitee.com/aencia2020/2020/02/16/sort-algorithms/</id>
+    <link href="https://github.com/AutoAVE/2020/02/16/sort-algorithms/"/>
+    <id>https://github.com/AutoAVE/2020/02/16/sort-algorithms/</id>
     <published>2020-02-16T07:09:23.000Z</published>
     <updated>2020-03-28T10:19:42.816Z</updated>
     
@@ -67,12 +67,12 @@
     
     </summary>
     
-      <category term="编程算法" scheme="https://gitee.com/aencia2020/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="编程算法" scheme="https://github.com/AutoAVE/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="leetcode" scheme="https://gitee.com/aencia2020/tags/leetcode/"/>
+      <category term="leetcode" scheme="https://github.com/AutoAVE/tags/leetcode/"/>
     
-      <category term="算法" scheme="https://gitee.com/aencia2020/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://github.com/AutoAVE/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
