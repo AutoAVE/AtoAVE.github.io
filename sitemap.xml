@@ -2,56 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://godweiyang.com/2020/02/16/sort-algorithms/</loc>
+    <loc>https://gitee.com/aencia2020/2020/03/28/first-blog/</loc>
+    
+    <lastmod>2020-03-28T15:51:40.360Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/aencia2020/friends/index.html</loc>
+    
+    <lastmod>2020-03-28T11:37:13.446Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/aencia2020/contact/index.html</loc>
+    
+    <lastmod>2020-03-28T11:36:46.246Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/aencia2020/2020/02/16/sort-algorithms/</loc>
+    
+    <lastmod>2020-03-28T10:19:42.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/aencia2020/404.html</loc>
     
     <lastmod>2020-03-11T11:02:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/404.html</loc>
+    <loc>https://gitee.com/aencia2020/about/index.html</loc>
     
     <lastmod>2020-03-11T11:02:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/categories/index.html</loc>
+    <loc>https://gitee.com/aencia2020/archives/index.html</loc>
     
     <lastmod>2020-03-11T11:02:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/archives/index.html</loc>
+    <loc>https://gitee.com/aencia2020/categories/index.html</loc>
     
     <lastmod>2020-03-11T11:02:25.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/about/index.html</loc>
-    
-    <lastmod>2020-03-11T11:02:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/friends/index.html</loc>
-    
-    <lastmod>2020-03-11T11:02:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/tags/index.html</loc>
-    
-    <lastmod>2020-03-11T11:02:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/contact/index.html</loc>
+    <loc>https://gitee.com/aencia2020/tags/index.html</loc>
     
     <lastmod>2020-03-11T11:02:25.000Z</lastmod>
     
